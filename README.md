@@ -2,10 +2,10 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Sebastián Chávarry&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Working at Amber Solutions<br/> I'm Data Engineer </p>
+<p>Working at Blum SAF, peruvian fintech<br/> I'm Software Engineer </p>
 
 💻 Technical Proficiencies:
-- Languages: Python, Javascript, C#, Typescript, Kotlin
+- Languages: Python, Typescript, C#
 - Frameworks: NextJS, React, Angular, .NET
 - Tools: Git, AWS   
 
